@@ -1,0 +1,10 @@
+[package]
+name = "alternative_language"
+version = "0.1.0"
+edition = "2021"
+
+[toolchain]
+channel = "nightly"
+
+[dependencies]
+csv = "1.2.1"
